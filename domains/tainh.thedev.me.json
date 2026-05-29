@@ -1,0 +1,13 @@
+{
+  "subdomain": "tainh",
+  "domain": "thedev.me",
+  "email_or_discord": "antiall89@gmail.com",
+  "github_username": "oantuti",
+  "description": "Personal website hosted on IIS",
+
+  "records": {
+    "A":     ["103.53.231.124"]
+  },
+
+  "proxied": true
+}
